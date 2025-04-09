@@ -11,7 +11,7 @@
 ## Attribution
 This framework is inspired by:
 - **"Somebody Wanted But So" (SWBS) strategy** -  widwly used in education to help students summarize, originator is not well-documented
-    - Video explanation: https://youtu.be/aGRhvf8M8rY?si=-0v2HHvS_OEfbZ7l&t=30
+    - Video explanation: https://youtu.be/aGRhvf8M8rY?si=-0v2HHvS_OEfbZ7l&t=31
 - **Borton's Developmental Model (1970)** – "What? So What? Now What?"
 - **Driscoll's Model of Reflection**
 - **Rolfe et al.'s Reflective Model (2001)**
