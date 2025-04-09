@@ -2,6 +2,12 @@
 
 This communication model is adapted from reflective and storytelling frameworks used in education, healthcare, and leadership. It helps responders structure clear, audience-tailored summaries during incident response reporting.
 
+---
+
+![Incident Reporting Framework](./Assets/WhoDidWhatWhyHow.jpg)
+
+---
+
 ## Attribution
 This framework is inspired by:
 - **"Somebody Wanted But So" (SWBS) strategy** -  widwly used in education to help students summarize, originator is not well-documented
