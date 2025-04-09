@@ -49,7 +49,7 @@ These models were developed to promote reflection and critical thinking and have
 
 > **Who:** An external attacker leveraging credential stuffing techniques — (which means they tried lots of usernames and passwords from previous breaches to see if any still worked). <br/>
 > **Did What:** They launched an automated login attack against our VPN portal — (that is when they use a bot rapidly entered credentials into our remote access system). <br/>
-> **Why:** The goal was most likely to find a valid account with access to internal systems — (in other words, they wanted a backdoor into our network). <br/>
+> **Why:** The goal was most likely to find a valid account with access to internal systems — (because they wanted to sneak into our network and appear as a real user). <br/>
 > **How:** They used a scripted tool to send login requests from multiple IPs — (this helps them avoid detection and try as many combos as possible). <br/>
 > **So What:** Most attempts failed, but one account had a successful login before it was locked — (this could have allowed them to move further into the network if we hadn’t caught it). <br/>
 > **Now What:** Now What: We’ve blocked the source IPs, reset credentials, and are reviewing logs for any other unusual activity — (in other words, we’re locking down what they touched and we'll keep checking for signs of compromise). <br/>
