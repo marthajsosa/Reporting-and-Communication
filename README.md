@@ -26,10 +26,10 @@ These models were developed to promote reflection and critical thinking and have
 |---------------|-----------------|------------------|
 | **Who**       | Who was involved (attacker, insider, external actor) | Use generic terms for non-technical audiences |
 | **Did What**  | What action they took (e.g., phishing, exfiltration) | Focus on the behavior, not just the alert |
-| **Why**       | Likely motivation (e.g., access data, install malware) | Make intent relatable: theft, disruption, etc. |
+| **Why**       | Likely motivation (e.g., access data, install malware) | Use commonly understood terms: theft, disruption, etc. |
 | **How**       | TTPs, entry points, tools used | For technical peers, relate known ATPs, TTPs, etc. |
 | **So What**   | Impact or risk posed | Emphasize business impact, compliance, downtime |
-| **Now What**  | Actions taken or recommended | Show containment, response, and future steps |
+| **Now What**  | Actions taken or recommended | Host containment, response, and future steps |
 
 ---
 
@@ -52,8 +52,8 @@ These models were developed to promote reflection and critical thinking and have
 > **Did What:** They launched an automated login attack against our VPN portal — (that is when they use a bot rapidly entered credentials into our remote access system). <br/>
 > **Why:** The goal was most likely to find a valid account with access to internal systems — (because they wanted to sneak into our network and appear as a real user). <br/>
 > **How:** They used a scripted tool to send login requests from multiple IPs — (this helps them avoid detection and try as many combos as possible). <br/>
-> **So What:** Most attempts failed, but one account had a successful login before it was locked — (this could have allowed them to move further into the network if we hadn’t caught it). <br/>
-> **Now What:** Now What: We’ve blocked the source IPs, reset credentials, and are reviewing logs for any other unusual activity — (in other words, we’re locking down what they touched and we'll keep checking for signs of compromise). <br/>
+> **So What:**  Logs revealed one user account had a successful login event with compromised credentials from the same source IP as the credential stuffing activity — (Most attempts failed, but one account had a successful login before it was locked--this could have allowed them to move further into the network if we hadn’t caught it). <br/>
+> **Now What:** We’ve blocked the source IPs, reset credentials, and are reviewing logs for any other unusual activity — (in other words, we’re locking down what they touched and we'll keep checking for signs of compromise). <br/>
 
 ---
 
