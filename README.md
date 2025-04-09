@@ -26,7 +26,7 @@ These models were developed to promote reflection and critical thinking and have
 | **Who**       | Who was involved (attacker, insider, external actor) | Use generic terms for non-technical audiences |
 | **Did What**  | What action they took (e.g., phishing, exfiltration) | Focus on the behavior, not just the alert |
 | **Why**       | Likely motivation (e.g., access data, install malware) | Make intent relatable: theft, disruption, etc. |
-| **How**       | TTPs, entry points, tools used | Include MITRE references for technical peers |
+| **How**       | TTPs, entry points, tools used | For technical peers, relate known ATPs, TTPs, etc. |
 | **So What**   | Impact or risk posed | Emphasize business impact, compliance, downtime |
 | **Now What**  | Actions taken or recommended | Show containment, response, and future steps |
 
