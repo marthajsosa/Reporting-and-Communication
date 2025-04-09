@@ -113,10 +113,10 @@ These models were developed to promote reflection and critical thinking and have
 
 ## Tips for Use
 
-- Tailor the **depth of technical detail** based on the audience
-- Use the **"So What"** section to connect the incident to real business consequences
-- Keep **"Now What"** action-focused to reassure stakeholders
-- Consider **visuals or diagrams** for executive, PR, and HR audiences
+- Tailor the depth of technical detail based on the audience
+- Use the "So What" section to connect the incident to real business consequences
+- Keep "Now What" action-focused to reassure stakeholders
+- Consider visuals or diagrams for executive, PR, and HR audiences
 
 ---
 
