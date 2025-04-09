@@ -1,5 +1,5 @@
 ## Incident Reporting & Communication Framework: 
-# *"Who Did What, Why, How, So What, Now What"*
+# *"Who Did What, Why & How, So What, Now What"*
 <blockquote> This communication model is adapted from reflective and storytelling frameworks used in education, healthcare, and leadership. It helps responders structure clear, audience-tailored summaries during incident response reporting. </blockquote>
 
 ---
